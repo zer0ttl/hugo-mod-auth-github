@@ -1,4 +1,4 @@
 module:
-  mounts:
-    - source: functions/api
-      target: functions/api
+  #  mounts:
+  #  - source: functions/api
+  #    target: functions/api

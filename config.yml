@@ -1,0 +1,4 @@
+module:
+  mounts:
+    - source: functions/api
+      target: functions/api

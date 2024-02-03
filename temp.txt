@@ -1,0 +1,13 @@
+ 2003  mkdir hugo-mod-auth-github
+ 2004  cd hugo-mod-auth-github/
+ 2005  hugo mod init github.com/zer0ttl/hugo-mod-auth-github
+ 2006  touch README.md
+ 2007  touch LICENSE
+ 2008  cp ../hugo-decapcms/README.md .
+ 2009  cp ../hugo-decapcms/LICENSE .
+ 2010  cp ../hugo-decapcms/config.yml .
+ 2011  mkdir -p functions/api
+ 2012  touch functions/api/auth.js
+ 2013  touch functions/api/callback.js
+ 2014  history
+
